@@ -1,4 +1,4 @@
-const CACHE = 'khotwatna-v1';
+const CACHE = 'khotwatna-v2';
 const ASSETS = ['./', './index.html', './src/main.js', './src/styles.css', './src/supabase.js', './src/ui.js', './manifest.webmanifest'];
 
 self.addEventListener('install', event => {
