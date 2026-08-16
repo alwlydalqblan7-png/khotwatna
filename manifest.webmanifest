@@ -1,0 +1,11 @@
+{
+  "name": "خطوتنا — نحو الاستقلال المالي",
+  "short_name": "خطوتنا",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6fbf7",
+  "theme_color": "#15803d",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
